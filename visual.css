@@ -1,0 +1,83 @@
+.colorfondo {
+    background-color: grey;
+    margin-top: 50px;
+    padding-bottom: 40px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.contenedor {
+
+    background-color: #808080;
+    margin-left: 60px;
+    height: 1300px;
+    width: 600px;
+
+    text-align: center;
+}
+
+
+.informacion {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+}
+
+.introduccion {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+}
+
+.imagen {
+    margin-top: 30px;
+    text-align: center;
+
+}
+
+.experiencia {
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+
+}
+
+.educacion {
+
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+
+h4 {
+    list-style: none;
+    background-color: rgb(247, 45, 85);
+}
+
+.edu {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+
+
+}
+
+.margen {
+    text-align: left;
+}
+
+.accesos {
+    text-align: left;
+}
+
+
+.final {
+
+    justify-content: space-around;
+    text-align: right;
+}
+
